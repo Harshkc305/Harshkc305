@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Choudhary</h1>
 <h3 align="center">💻 Full-Stack Developer | TypeScript Enthusiast | EJS & Express.js Explorer</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F6F6F6&center=true&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Passionate+about+learning+new+tech;Building+clean+%26+scalable+web+apps+🚀" alt="Typing SVG" />
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F6F6F6&width=450&lines=Full-Stack+Web+Developer;Passionate+about+learning+new+tech;Building+clean+web+apps+🚀" alt="Typing SVG" />
+</p>
+
 
 ---
 
@@ -70,7 +72,9 @@ If you're hiring or want to collaborate on projects, let's chat. I love solving 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=harshkc305&icon=5&color=0" alt="Profile Views" />
+  <img src="https://avatars.githubusercontent.com/u/180410076?v=4" width="100px" style="border-radius:50%;" alt="Harsh's Avatar"/>
+
+
 </p>
 
 <!-- Crafted with 💙 by Harsh Kumar Choudhary -->
