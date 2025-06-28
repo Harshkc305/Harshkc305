@@ -73,8 +73,8 @@ If you're hiring or want to collaborate on projects, let's chat. I love solving 
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/180410076?v=4" width="100px" style="border-radius:50%;" alt="Harsh's Avatar"/>
-
-
+   <h2 align="center">Profile</h2>
 </p>
+
 
 <!-- Crafted with 💙 by Harsh Kumar Choudhary -->
